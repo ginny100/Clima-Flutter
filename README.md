@@ -2,7 +2,7 @@
 
 # Clima ☁
 
-## Our Goal
+## My Goal
 
 My objective of completing this project was to learn about asynchronous programming in Dart, how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
 
